@@ -1,5 +1,8 @@
 # Maze Platformer! (Also my first godot game!!)
 
+Itch: https://yevheniiasimakagmailcom.itch.io/platformer-maze-godot
+
+
 This is the first time I've ever made a game in Godot, and I loved it and the next one wil lbe fully my own! I watched a youtube tutorial on it, and after that fully changed a game to be a maze, where you have to collect all of the coins throughout the game map.
 
 https://github.com/user-attachments/assets/0e8dc0ab-9f9c-4cd6-87b7-04d8d21fdf9a
